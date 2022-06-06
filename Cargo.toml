@@ -1,0 +1,10 @@
+[package]
+name = "ansi_to_tex"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ansi-parser = "0.8.0"
+v_latexescape = "0.13.1"
